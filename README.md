@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @billy-mccann, I'm an iOS engineer.
+ML enthusiast. Mobile enthusiast. Eigenvalues, vector spaces, maps, tranformsations and tensors. And all ways they relate to code. Compilers, containers, self-hosted clusters. I love Swift and tolerate iOS. Also synthesizers, guitars, and motorcycles. 
 
 
 <!---
